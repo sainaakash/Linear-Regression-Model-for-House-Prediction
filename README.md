@@ -12,3 +12,8 @@ Create a new environement
 ```
 conda create -p venv python==3.10 -y
 ```
+
+Check out the deployed web app:
+```
+https://lrhousepricemodel-3dac196c94ad.herokuapp.com/
+```
